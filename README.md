@@ -1,4 +1,4 @@
-# DISCLAIMER: I do not speak lawyer so I have no idea of what some things this bot does violates TOS or not, i read robots.txt (https://warthunder.com/robots.txt) on wts website and i dont think the path is not allowed but idk)
+# DISCLAIMER: I do not speak lawyer so I have no idea if what some things this bot does violate TOS or not, i read robots.txt (https://warthunder.com/robots.txt) on wts website and i dont think the path is not allowed but idk)
 SVS Bot
 A Discord bot made to track svs for WT squadrons. 
 Thanks to ihaveswordz, dexter_69, zatone.uss for help with this project
