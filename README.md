@@ -18,5 +18,6 @@ Commands
 `/optout` - Stop SVS notifs
 `/thunderskill (player)` - get someones thunderskill link 
 `/ping` - bots response time 
+`/service (player)` - how long someone has been in the squadron
 
 Also has a bunch of bullshit commands that il remove from the repo eventualy
