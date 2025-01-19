@@ -69,7 +69,7 @@ module.exports = {
             const embedsToSend = [];
             let currentEmbed = new EmbedBuilder()
                 .setColor(0x00FF00)
-                .setTitle(`Total Points - ${clanPCR.toLocaleString()}`);
+                .setTitle(`=SADAF= We Got Baking Soda | Total Points - ${clanPCR.toLocaleString()}`);
 
             let description = '';
             let characterCount = 0;
