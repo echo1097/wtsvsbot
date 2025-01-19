@@ -21,4 +21,4 @@ Commands
 `/service (player)` - how long someone has been in the squadron
 `/svsinfo` - info about the current session (EU/US and time left) bot rpc also displays this
 
-Also has a bunch of bullshit commands that il remove from the repo eventualy
+Also has a bunch of bullshit commands that il remove from the repo eventualy (they were removed)
